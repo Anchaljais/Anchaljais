@@ -43,6 +43,7 @@
     This is where the page begins!
 -->
 
+[![The Anafro's Profile Page Banner](https://cdn.dribbble.com/users/1073890/screenshots/7264937/media/ac717c1af6bdcff09e4c81a077a6ed94.gif "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/Anchaljais)
 
 <!--
     This is the language bar!
@@ -66,7 +67,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 <!--
     This is the list of my skills and tools I use!
 -->
-[![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Skills.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
+[![The Anchal's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Skills.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/Anchaljais)
 
 <h2 align="center">List of my skills</h2>
 
