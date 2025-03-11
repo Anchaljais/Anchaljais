@@ -111,34 +111,15 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > &nbsp;
 
-[![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Contacts.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
 
 <h2 align="center">Contacts & Social media</h2>
 
 > [!IMPORTANT]
 > Please, add a topic before any of your message (e.g. Contribution or Job Offer) to make sure I don't miss it, thank you sooo much!
 
-<div align="center">
-    <a href="https://vk.com/anafro">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-4C75A3?logo=vk"></a>
-    &nbsp;
-    <a href="mailto:contact@anafro.ru">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/contact%40anafro.ru-black?logo=maildotru"></a>
-    &nbsp;
-    <a href="https://t.me/anafro_ru">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/%40anafro__ru-26A5E4?logo=telegram"></a>
-    &nbsp;
-    <a href="https://discord.com/users/398742003556548618/">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-7289da?logo=discord&logoColor=white"></a>
-    &nbsp;
-    <a href="https://t.me/anafro_ru">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro.ru-305CD8?logo=instatus&logoColor=white"></a>
-    &nbsp;
-</div>
+
 
 <br />
-
-[![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Thanks.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
 
 <br />
 
